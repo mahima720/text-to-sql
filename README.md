@@ -4,6 +4,10 @@ A Streamlit web application that converts plain English questions into SQLite da
 
 ---
 
+## 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://text-to-sql-gemini.streamlit.app/)
+
+
 ![UI](/images/image1.png)
 ![UI](/images/image2.png)
 
